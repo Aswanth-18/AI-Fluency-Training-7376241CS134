@@ -1,0 +1,2 @@
+No assessment run has been captured yet. After setup, generate this log with:
+python task_agent.py 2>&1 | Tee-Object -FilePath run_log.txt
